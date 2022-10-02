@@ -9,61 +9,61 @@
 
 
 #EXTINF:-1
-group-title = "🥸TIOZÃO " tvg-logo="https://bit.ly/3BV2CXX", HARRY POTTER  https://bit.ly/3dNHA5L
+group-title = "🥸TIOZÃO" tvg-logo="https://bit.ly/3BV2CXX", HARRY POTTER  https://bit.ly/3dNHA5L
 
 #EXTINF:-1 
-group-title = "🥸TIOZÃO " tvg-logo = "https://bit.ly/3ruZDAV", CIDADE DE DEUS  https://bit.ly/3dQ0KHZ
+group-title = "🥸TIOZÃO" tvg-logo = "https://bit.ly/3ruZDAV", CIDADE DE DEUS  https://bit.ly/3dQ0KHZ
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_200x300.jpg" ,JOSE PAI DE JESUS 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_200x300.jpg" ,JOSE PAI DE JESUS 
 https://play.prod.gcp.vix.services/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_1-1/play_v1_hls_360p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" ,MARIA MADALENA 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" ,MARIA MADALENA 
 https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/thumbs_640x360.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" GUIDA
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" GUIDA
 https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_234p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/joseph_pt/joseph_pt_200x300.jpg" JOSE 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/joseph_pt/joseph_pt_200x300.jpg" JOSE 
 https://play.prod.gcp.vix.services/joseph_pt/joseph_pt_1-1/thumbs_640x360.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/book-genesis_pt/book-genesis_pt_200x300.jpg" GÊNESIS 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/book-genesis_pt/book-genesis_pt_200x300.jpg" GÊNESIS 
 https://play.prod.gcp.vix.services/book-genesis_pt/book-genesis_pt_1-1/thumbs_640x360.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-tommaso_pt/gli-amici-tommaso_pt_200x300.jpg" TOME 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/gli-amici-tommaso_pt/gli-amici-tommaso_pt_200x300.jpg" TOME 
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_234p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg"SANSÃO E DALILA 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg"SANSÃO E DALILA 
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_234p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/solomon_pt/solomon_pt_200x300.jpg" salomao
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/solomon_pt/solomon_pt_200x300.jpg" salomao
 https://play.prod.gcp.vix.services/solomon_pt/solomon_pt_1-1/play_v1_hls_360p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/apostle-peter-redemption_pt/apostle-peter-redemption_pt_200x300.jpg"PEDRO A RENDENÇAO 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/apostle-peter-redemption_pt/apostle-peter-redemption_pt_200x300.jpg"PEDRO A RENDENÇAO 
 https://play.prod.gcp.vix.services/apostle-peter-redemption_pt/apostle-peter-redemption_pt_1-1/play_v1_hls_234p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/jesus_pt/jesus_pt_200x300.jpg"JESUS 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/jesus_pt/jesus_pt_200x300.jpg"JESUS 
 https://play.prod.gcp.vix.services/jesus_pt/jesus_pt_1-1/play_v1_hls_234p.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/ten-commandments_pt/ten-commandments_pt_200x300.jpg"os dez mandamentos 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/ten-commandments_pt/ten-commandments_pt_200x300.jpg"os dez mandamentos 
 https://play.prod.gcp.vix.services/ten-commandments_pt/ten-commandments_pt_1-1/thumbs_640x360.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/abraham_pt/abraham_pt_200x300.jpg" abraão
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/abraham_pt/abraham_pt_200x300.jpg" abraão
 https://play.prod.gcp.vix.services/abraham_pt/abraham_pt_1-1/thumbs_640x360.m3u8
 
 #EXTINF:0
-group-title = "🥸TIOZÃO " tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/david_pt/david_pt_200x300.jpg" DAVI 
+group-title = "🥸TIOZÃO" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/david_pt/david_pt_200x300.jpg" DAVI 
 https://play.prod.gcp.vix.services/david_pt/david_pt_1-1/thumbs_640x360.m3u8
 
 

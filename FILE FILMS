@@ -161,40 +161,40 @@ group-title = "🦸‍♂️SUPER HEROI"  tvg-logo="https://bit.ly/3BV2CXX", HAR
 group-title = "🦸‍♂️SUPER HEROI"  tvg-logo="https://bit.ly/3LQYnkS", DEAD POOL  https://bit.ly/3BVfPQv
   
 
-#EXTINF: -1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SsBSoA", SUPER PETS https://bit.ly/3C9q3ya
+#EXTINF:-1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SsBSoA", SUPER PETS https://bit.ly/3C9q3ya
 
-#EXTINF: -1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3dQtErn", Lightyear
+#EXTINF:-1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3dQtErn", Lightyear
 https://bit.ly/3dLinJ4
 
-#EXTINF: -1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SBi4PC", thor amor e trovao https://bit.ly/3UFLCxv
+#EXTINF:-1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SBi4PC", thor amor e trovao https://bit.ly/3UFLCxv
 
-#EXTINF: -1 group-title = "🦸‍♂️SUPER HEROI" " tvg-logo = "https://bit.ly/3rhxHQw",NIVEL HARD  https://bit.ly/3rirB2l
+#EXTINF:-1 group-title = "🦸‍♂️SUPER HEROI" " tvg-logo = "https://bit.ly/3rhxHQw",NIVEL HARD  https://bit.ly/3rirB2l
 
-#EXTINF: -1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SFF4gG", DOUTOR ESTRANHO  https://bit.ly/3CfWc7l
+#EXTINF:-1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SFF4gG", DOUTOR ESTRANHO  https://bit.ly/3CfWc7l
 
 ############🌐FILMES############
 
 #EXTINF:-1
 group-title = "🌐ALL FILMS" "  tvg-logo="https://bit.ly/3E5n7E3", ITS É COISA II https://bit.ly/3LWHplc
 
-#EXTINF: -1 group-title = "🌐ALL FILMS"" tvg-logo = "https://bit.ly/3SuO8EO", JURASSIC WORLD,https://bit.ly/3BIZgr3
+#EXTINF:-1 group-title = "🌐ALL FILMS"" tvg-logo = "https://bit.ly/3SuO8EO", JURASSIC WORLD,https://bit.ly/3BIZgr3
 
-#EXTINF: -1 group-title = "🌐ALL FILMS"" tvg-logo = "https://bit.ly/3BQGUnP", VIAJEM AO INFINITO,https://bit.ly/3BRnDTt
+#EXTINF:-1 group-title = "🌐ALL FILMS"" tvg-logo = "https://bit.ly/3BQGUnP", VIAJEM AO INFINITO,https://bit.ly/3BRnDTt
 
-#EXTINF: -1 group-title = "🌐ALL FILMS"" tvg-logo = "https://bit.ly/3SBkcH7", TREM BALA,https://bit.ly/3SE8sUw
+#EXTINF:-1 group-title = "🌐ALL FILMS"" tvg-logo = "https://bit.ly/3SBkcH7", TREM BALA,https://bit.ly/3SE8sUw
 
-#EXTINF: -1 group-title = "🌐ALL FILMS" tvg-logo = "https://s3.amazonaws.com/podcasts-image-uploads/assistir-lou-online-gratis-2022-600x600.png", LOU 2022,https://bit.ly/3C9dQJO
+#EXTINF:-1 group-title = "🌐ALL FILMS" tvg-logo = "https://s3.amazonaws.com/podcasts-image-uploads/assistir-lou-online-gratis-2022-600x600.png", LOU 2022,https://bit.ly/3C9dQJO
 
-#EXTINF: -1 group-title = "🌐ALL FILMS" tvg-logo = "https://bit.ly/3r9zQhg",  PINOCHIO https://bit.ly/3RiuCKR
+#EXTINF:-1 group-title = "🌐ALL FILMS" tvg-logo = "https://bit.ly/3r9zQhg",  PINOCHIO https://bit.ly/3RiuCKR
 
 ###########🇧🇷FILMES##############
 
 #EXTINF:-1
 group-title = "🇧🇷NACIONAL" tvg-logo="https://bit.ly/3EciE2e", AS VERDADES  https://bit.ly/3BWCiN0
 
-#EXTINF: -1 group-title = "🇧🇷NACIONAL" tvg-logo = "https://bit.ly/3Svp9S4", AMADO https://bit.ly/3xWgGPS
+#EXTINF:-1 group-title = "🇧🇷NACIONAL" tvg-logo = "https://bit.ly/3Svp9S4", AMADO https://bit.ly/3xWgGPS
 
-#EXTINF: -1 group-title = "🇧🇷NACIONAL" tvg-logo = "https://bit.ly/3ruZDAV", CIDADE DE DEUS  https://bit.ly/3dQ0KHZ
+#EXTINF:-1 group-title = "🇧🇷NACIONAL" tvg-logo = "https://bit.ly/3ruZDAV", CIDADE DE DEUS  https://bit.ly/3dQ0KHZ
 
 #EXTINF:-1
 group-title = "🇧🇷NACIONAL" tvg-logo="https://www.vixbrasiltv.com/tv/on-demand/channels/o2-play-filmes-brasileiros/605dc486d68c903f5c738302", CORPOS CELESTES

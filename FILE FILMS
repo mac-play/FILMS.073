@@ -4,7 +4,7 @@
 
 
 
-###########🥸FILMES##########
+
 
 #EXTINF:-1
 group-title = "🥸TIOZÃO" tvg-logo="https://bit.ly/3BV2CXX", HARRY POTTER  https://bit.ly/3dNHA5L
@@ -68,7 +68,7 @@ https://play.prod.gcp.vix.services/david_pt/david_pt_1-1/thumbs_640x360.m3u8
 
 
 
-############🤣FILMES############
+
 
 #EXTINF:-1
 group-title = "🤣COMEDIA " tvg-logo="https://bit.ly/3LQYnkS", DEAD POOL  https://bit.ly/3BVfPQv
@@ -78,7 +78,7 @@ group-title = "🤣COMEDIA " tvg-logo="https://bit.ly/3RoPqAf", PEQUENOS GRANDES
 
 #EXTINF: -1 group-title = "🤣COMEDIA " tvg-logo = "https://bit.ly/3rhxHQw",NIVEL HARD  https://bit.ly/3rirB2l
 
-###########🧸FILMES############ 
+
 
 
 
@@ -146,7 +146,7 @@ https://play.prod.gcp.vix.services/tia-pesada_pt/tia-pesada_pt_1-1/thumbs_640x36
 
 
 
-##########🦸‍♂️FILMES############
+#
 
 #EXTINF:-1
 group-title = "🦸‍♂️SUPER HEROI" tvg-logo="https://bit.ly/3RoPqAf", PEQUENOS GRANDES HEROIS  https://bit.ly/3RnayHd
@@ -173,7 +173,7 @@ https://bit.ly/3dLinJ4
 
 #EXTINF:-1 group-title = "🦸‍♂️SUPER HEROI" tvg-logo = "https://bit.ly/3SFF4gG", DOUTOR ESTRANHO  https://bit.ly/3CfWc7l
 
-############🌐FILMES############
+#
 
 #EXTINF:-1
 group-title = "🌐ALL FILMS"  tvg-logo="https://bit.ly/3E5n7E3", ITS É COISA II https://bit.ly/3LWHplc
@@ -189,7 +189,7 @@ group-title = "🌐ALL FILMS"  tvg-logo="https://bit.ly/3E5n7E3", ITS É COISA I
 #EXTINF:-1 group-title = "🌐ALL FILMS" tvg-logo = "https://bit.ly/3r9zQhg",  PINOCHIO https://bit.ly/3RiuCKR
 
 
-###########🇧🇷FILMES##############
+
 
 #EXTINF:-1
 group-title = "🇧🇷NACIONAL" tvg-logo="https://bit.ly/3EciE2e", AS VERDADES  https://bit.ly/3BWCiN0
@@ -310,7 +310,7 @@ https://vod-meta.wix.com/secure-files/06e33522f4cc45ebb7de12b51f691198.mp4?secur
 
 #EXTINF:-1  group-title="🥸TIOZÃO"  tvg-logo="http://is.gd/AKg7zR",LUTA PELA LIBERDADE 
  https://vod-meta.wix.com/secure-files/6bc0c0fb956248e6b8696f6550226ca9.mp4?secure_data=c2F2ZV9hc19uYW1lPUx1dGElMjBQZWxhJTIwTGliZXJkYWRlJTIwMjAyMS5tcDQmbm9uY2U9ODRmNjU2ODRjZDRiJmV4cGlyYXRpb25fdHM9MTY2NTM2NzI1MyZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS84OTc1OWIwYi0xODVhLTRhMGQtYjdhZC0xNTg5ZGZhZTczOTQvdmlkZW8vNmJjMGMwZmI5NTYyNDhlNmI4Njk2ZjY1NTAyMjZjYTkvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=236b2d8bd654ca4a43c269f398c4c48009f2d856
-💜
+
 #EXTINF:-1  group-title="🧸ANIMAÇÃO"  tvg-logo="http://is.gd/9fUImd", BOB SPONJA RESGATE INCRIVEIL
 https://vod-meta.wix.com/secure-files/056dc26c7c4f4a9c98f45047fb1faccb.mp4?secure_data=c2F2ZV9hc19uYW1lPUJvYl9Fc3BvbmphX09fSW5jciVDMyVBRHZlbF9SZXNnYXRlLm1wNCZub25jZT1hYWZhYTExZmY0ZWEmZXhwaXJhdGlvbl90cz0xNjY1NDc4ODA5JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzg5NzU5YjBiLTE4NWEtNGEwZC1iN2FkLTE1ODlkZmFlNzM5NC92aWRlby8wNTZkYzI2YzdjNGY0YTljOThmNDUwNDdmYjFmYWNjYi83MjBwL21wNC9maWxlLm1wNA==&secure_sig=cacb47bf053e0557bb72f45ecfbce5ba574150e8
 
@@ -319,6 +319,15 @@ https://vod-meta.wix.com/secure-files/392bb5fa37e64888a56b1008aca3b2e2.mp4?secur
 
 #EXTINF:-1  group-title="🥸TIOZÃO"  tvg-logo="http://is.gd/aPpVvl", VIZINHOS 
  https://vod-meta.wix.com/secure-files/bc3f5641c08b4f01b207a743d2c7b6a6.mp4?secure_data=c2F2ZV9hc19uYW1lPUZlbmNlZC5Jbi4yMDIyLm1wNCZub25jZT1hNGEzM2FmZDk1NGImZXhwaXJhdGlvbl90cz0xNjY1NDc5MzU0JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzg5NzU5YjBiLTE4NWEtNGEwZC1iN2FkLTE1ODlkZmFlNzM5NC92aWRlby9iYzNmNTY0MWMwOGI0ZjAxYjIwN2E3NDNkMmM3YjZhNi8xMDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=c39af1e643a51d7bec8c3805457f5a9373be56e9
+
+
+💜
+#EXTINF:-1  group-title="🇧🇷NACIONAL"  tvg-logo="http://is.gd/9fUImd", ESPOSA DE ALUGUEL
+https://vod-meta.wix.com/secure-files/6b990027889f455194b50bf8aafdd2cb.mp4?secure_data=c2F2ZV9hc19uYW1lPWVzcG9zYSUyMGRlJTIwYWx1Z3VlbCUyMDIwMjIubXA0Jm5vbmNlPTE5MmNkNDA0NmI3NyZleHBpcmF0aW9uX3RzPTE2NjU1NTkzODYmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vODk3NTliMGItMTg1YS00YTBkLWI3YWQtMTU4OWRmYWU3Mzk0L3ZpZGVvLzZiOTkwMDI3ODg5ZjQ1NTE5NGI1MGJmOGFhZmRkMmNiLzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=06c8d82f296905cb1dc6954e1c8531f20c4227ce
+
+#EXTINF:-1  group-title="🌐ALL FILMS"  tvg-logo="http://is.gd/33gmJa",Uncharted: Fora do Mapa
+https://vod-meta.wix.com/secure-files/aabcceaa7c374c84bdc410cd8abd127f.mp4?secure_data=c2F2ZV9hc19uYW1lPVVuY2hhcnRlZCUyMC0lMjBGb3JhJTIwZG8lMjBNYXBhJTIwMjAyMi5tcDQmbm9uY2U9YWZlZDBmY2FiNWUxJmV4cGlyYXRpb25fdHM9MTY2NTU1OTEwNSZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS9kYjQxNjAzMS0xMGM5LTQ1MDctOThlNy1mZWJmNmI0NWE3M2QvdmlkZW8vYWFiY2NlYWE3YzM3NGM4NGJkYzQxMGNkOGFiZDEyN2YvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=0c333ccf4159b814c0834f2637107aef0a304162
+
 
 
 

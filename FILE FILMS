@@ -1,11 +1,15 @@
-#EXTM3U url-tvg = "https://www.tvmap.com.br/Programacao"
+#EXTM3U 
+url-tvg = "https://www.tvmap.com.br/Programacao"
 
 
 
 #EXTINF=-1
-group-title = "2022" tvg-logo="https://tinyurl.com/2p99orae" ADÃO NEGRO 
-#EXTGRP="lançamento,ação,aventura"
+group-title="2022" tvg-logo="https://tinyurl.com/2p99orae" ADÃO NEGRO 
+EXTGRP="lançamento,ação,aventura"
 https://pombaleza.tk/d/MP4/RedeCanais/RedeCanais/RCFServer5/ondemand/ADAONGRO.mp4?mu3zAQc9HC3GbwJq=cLtORQ45mFntfYFOFqwVNQ&3U1G7qaTxrPbalZnEx=1670997734
 
-
+#EXTINF=-1
+group-title="2022" tvg-logo="https://tinyurl.com/2p99orae" ADÃO NEGRO
+EXTGRP="lançamento,ação,aventura"
+https://pombaleza.tk/d/MP4/RedeCanais/RedeCanais/RCFServer5/ondemand/ADAONGRO.mp4?mu3zAQc9HC3GbwJq=cLtORQ45mFntfYFOFqwVNQ&3U1G7qaTxrPbalZnEx=1670997734
 
